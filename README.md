@@ -18,8 +18,8 @@ A hands-on demonstration of SQL analytical thinking, organized in three progress
 | Level | Folder | Dataset | Focus | Status |
 |---|---|---|---|---|
 | 1 | `01_fundamentals/` | Chinook (music retail) | SELECT, WHERE, ORDER BY, LIMIT, JOIN, GROUP BY, aggregates, LEFT JOIN | ✅ Ready |
-| 2 | `02_intermediate/` | Sakila / Northwind | Subqueries, CASE WHEN, multi-table aggregation, HAVING | 🚧 Next |
-| 3 | `03_advanced/` | Public health / e-commerce | Window functions, CTEs, cohort analysis, optimization | 🚧 Planned |
+| 2 | `02_intermediate/` | Sakila (DVD rental) | Subqueries, CASE WHEN, multi-table aggregation, HAVING | ✅ Ready |
+| 3 | `03_advanced/` | Sakila (DVD rental, reused) | Window functions, CTEs, cohort analysis, optimization | ✅ Ready |
 
 ### 🛠 How to run
 
@@ -45,8 +45,8 @@ Uma demonstração prática de raciocínio analítico em SQL, organizada em trê
 | Nível | Pasta | Dataset | Foco | Status |
 |---|---|---|---|---|
 | 1 | `01_fundamentals/` | Chinook (varejo de música) | SELECT, WHERE, ORDER BY, LIMIT, JOIN, GROUP BY, agregações, LEFT JOIN | ✅ Pronto |
-| 2 | `02_intermediate/` | Sakila / Northwind | Subqueries, CASE WHEN, agregação multi-tabela, HAVING | 🚧 Próximo |
-| 3 | `03_advanced/` | Saúde pública / e-commerce | Window functions, CTEs, análise de coorte, otimização | 🚧 Planejado |
+| 2 | `02_intermediate/` | Sakila (locadora de DVDs) | Subqueries, CASE WHEN, agregação multi-tabela, HAVING | ✅ Pronto |
+| 3 | `03_advanced/` | Sakila (locadora de DVDs, reuso) | Window functions, CTEs, análise de coorte, otimização | ✅ Pronto |
 
 ### 🛠 Como executar
 
